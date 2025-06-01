@@ -57,4 +57,4 @@ Integrate real-time data sources via Power BI Service.
 
 # 🧠 Author
   Manthan Jatte
-  Data Analyst & Power BI Developer
+  Manthan Jatte Exploring Python | SQL | Power BI | Data Analytics
